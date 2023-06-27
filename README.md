@@ -1,7 +1,7 @@
 # ParticleSystem 
 ### WallShooting
 ![WallShooting](https://github.com/S4ll7/ParticleSystem/assets/56050517/3d00c4b3-74f2-48af-9854-72d8b15227a2)
-#MousePath
+### MousePath
 ![MousePath](https://github.com/S4ll7/ParticleSystem/assets/56050517/b05a6d2b-d377-480b-8593-1e8be52a9238)
 ### Snow
 ![Snow](https://github.com/S4ll7/ParticleSystem/assets/56050517/68c74610-79ce-464c-99cb-0ce689bb3f64)
